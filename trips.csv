@@ -1,0 +1,7 @@
+mode,icon,from,to,operator,price,duration_minutes,stops,note,fare_type
+Train,🚆,London,Paris,Eurostar,44,136,0,City centre to city centre,Standard fare
+Train,🚆,Paris,Amsterdam,Eurostar,35,200,0,High-speed rail,Standard fare
+Train,🚆,Brussels,Paris,Eurostar,29,92,0,High-speed rail,Standard fare
+Bus,🚌,Paris,Brussels,FlixBus,9.99,240,0,Sample coach fare,Standard
+Bus,🚌,Amsterdam,Berlin,FlixBus,19.99,390,0,Sample coach fare,Standard
+Bus,🚌,Munich,Prague,FlixBus,17.99,300,0,Sample coach fare,Standard
